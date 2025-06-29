@@ -24,8 +24,10 @@ An E-Learning Platform UI should be intuitive, visually appealing, and user-frie
 A well-designed E-Learning Platform UI enhances learner engagement, retention, and overall educational experience.
 Output
 
-![image alt](https://github.com/CTT-Vaishnavi/INTERACTIVE-QUIZ-APPLICATION/blob/main/output1.png?raw=true)
-![image alt](https://github.com/CTT-Vaishnavi/INTERACTIVE-QUIZ-APPLICATION/blob/main/output.png?raw=true)
+![image alt](https://raw.githubusercontent.com/CTT-Vaishnavi/E-LEARNING-PLATFORM-UI/38bb16610b0efe963ee094ccc6054f9501b6a97c/1.png)
+![image alt](https://raw.githubusercontent.com/CTT-Vaishnavi/E-LEARNING-PLATFORM-UI/38bb16610b0efe963ee094ccc6054f9501b6a97c/1o%20%20(1).png)
+![image alt](https://raw.githubusercontent.com/CTT-Vaishnavi/E-LEARNING-PLATFORM-UI/38bb16610b0efe963ee094ccc6054f9501b6a97c/1o%20%20(2).png)
+![image alt](https://raw.githubusercontent.com/CTT-Vaishnavi/E-LEARNING-PLATFORM-UI/38bb16610b0efe963ee094ccc6054f9501b6a97c/1o%20%20(4).png)
 
 ## Video Demonstration
 For a video demonstration of the application, please visit the following link: [Video Link](https://ctt-vaishnavi.github.io/E-LEARNING-PLATFORM-UI/)
