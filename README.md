@@ -28,6 +28,6 @@ Output
 ![image alt](https://github.com/CTT-Vaishnavi/INTERACTIVE-QUIZ-APPLICATION/blob/main/output.png?raw=true)
 
 ## Video Demonstration
-For a video demonstration of the application, please visit the following link: [Video Link](https://ctt-vaishnavi.github.io/INTERACTIVE-QUIZ-APPLICATION/)
+For a video demonstration of the application, please visit the following link: [Video Link](https://ctt-vaishnavi.github.io/E-LEARNING-PLATFORM-UI/)
 
 
